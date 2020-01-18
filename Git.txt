@@ -1,0 +1,55 @@
+Git.txt
+
+username-Lin Let Let Lwin
+email   -brainseed.developer@gmail.com
+password -
+
+Step 1 :  Git Download
+Step 2 :  Git Installation
+Step 3 :  Github Account Creation
+Step 4 :  Git Respository
+Step 5 :  A file to upload on github 
+Step 6  : Git Command Line
+
+cd parth-Goto-Directory
+
+First Time (New Reponsitory)
+            git int 
+            git add
+            git config global user.email "linletlet2002@gmail.com"
+            git config global user.name "Lin Let Let Lwin"
+
+            git commit -m "first commit"
+            git remote add origin https://github.com/brainseeddeveloper/Sample.git
+            git push-u origin master
+
+ (New Respository for New Project)
+            git init
+            git add .
+            git config global user.email "useremail"
+            git config global user.name  "username"
+
+             git commit -m "first commit"
+            git remote add origin https://github.com/brainseeddeveloper/Sample.git
+            git push-u origin master
+
+(Old Respository For Existing Project)
+
+              git add.
+              git commit -m "secomd commit"
+              git push
+
+(Existing Project to other Laptop)
+              git pull
+
+(Other Person Project To Own Laptop)
+  
+              git pull
+
+ (Other Person Project To Own Laptop)
+
+              https://github.com/brainseeddeveloper/Sample.git
+
+
+
+
